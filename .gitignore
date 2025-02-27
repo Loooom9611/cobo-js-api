@@ -1,6 +1,5 @@
 .idea
 node_modules
-out
 src/*.js
 release*
 .DS_Store
